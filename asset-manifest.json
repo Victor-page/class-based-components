@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/class-based-components/static/css/main.e3a721e2.chunk.css",
+    "main.js": "/class-based-components/static/js/main.955b9e8f.chunk.js",
+    "main.js.map": "/class-based-components/static/js/main.955b9e8f.chunk.js.map",
+    "runtime-main.js": "/class-based-components/static/js/runtime-main.0cd13944.js",
+    "runtime-main.js.map": "/class-based-components/static/js/runtime-main.0cd13944.js.map",
+    "static/js/2.40e0ab66.chunk.js": "/class-based-components/static/js/2.40e0ab66.chunk.js",
+    "static/js/2.40e0ab66.chunk.js.map": "/class-based-components/static/js/2.40e0ab66.chunk.js.map",
+    "index.html": "/class-based-components/index.html",
+    "static/css/main.e3a721e2.chunk.css.map": "/class-based-components/static/css/main.e3a721e2.chunk.css.map",
+    "static/js/2.40e0ab66.chunk.js.LICENSE.txt": "/class-based-components/static/js/2.40e0ab66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd13944.js",
+    "static/js/2.40e0ab66.chunk.js",
+    "static/css/main.e3a721e2.chunk.css",
+    "static/js/main.955b9e8f.chunk.js"
+  ]
+}
